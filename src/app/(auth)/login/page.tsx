@@ -50,7 +50,7 @@ export default function SignInSide() {
     return (
         <>
             <Seo data={{
-                title: 'Nội Thất KZone — Hãy tạo không gian sống thoải mái',
+                title: 'NhaThiep — Hãy tạo thiệp mừng theo cách riêng của bạn',
                 description: 'Đăng nhập để nhận nhiều ưu đãi chỉ dành riêng cho khách hàng.',
             }} />
 

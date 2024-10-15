@@ -57,8 +57,8 @@ export default function Home() {
     return (
         <>
             <Seo data={{
-                title: 'Nội Thất KZone | Mua hàng chất lượng',
-                description: 'Nội thất được cung cấp bởi nguồn hàng đa dạng trong và ngoài nước với tiêu chi chắc chắn, bền bỉ.',
+                title: 'NhaThiep | Mua hàng chất lượng',
+                description: 'NhaThiep — Hãy tạo thiệp mừng theo cách riêng của bạn. Thiệp được cung cấp bởi nguồn hàng đa dạng trong và ngoài nước với tiêu chi đẹp, chắc chắn.',
             }} />
 
             <Box>

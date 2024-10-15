@@ -118,7 +118,7 @@ export default function Cart() {
         <>
             <Seo data={{
                 title: 'Giỏ hàng',
-                description: 'Giò hàng nội thất kzone'
+                description: 'Giò hàng Nhathiep'
             }} />
             <Box>
                 <Box component={'section'} sx={{ width: '100%', maxWidth: '1460px', margin: 'auto', paddingBlockStart: '55px' }}>

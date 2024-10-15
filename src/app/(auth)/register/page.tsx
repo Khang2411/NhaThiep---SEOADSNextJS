@@ -37,7 +37,7 @@ export default function SignUp() {
     return (
         <>
             <Seo data={{
-                title: 'Nội Thất KZone — Hãy tạo không gian sống thoải mái',
+                title: 'NhaThiep — Hãy tạo thiệp mừng theo cách riêng của bạn',
                 description: 'Đăng ký ngay để nhận nhiều ưu đãi chỉ dành riêng cho khách hàng.',
             }} />
             <Box
